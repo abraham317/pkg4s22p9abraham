@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg4s22p9vba;
+package pkg4s22p9abraham;
 
 import Almacen.Archivo;
 import java.io.BufferedReader;
@@ -17,7 +17,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 /**
  *
- * @author Daliux
+ * 
  */
 public class FrmPrincipal extends javax.swing.JFrame {
 
